@@ -20,7 +20,9 @@ Reach out to me at...
 <br/>
 <br/>
 <br/>
+<p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sk-singla&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+</p>
 <br/>
 <br/>
 <br/>
@@ -28,11 +30,10 @@ Reach out to me at...
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+<a href="https://github.com/Sk-singla">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk-singla&theme=light&hide_langs_below=1" />
+</a>
 
 
 #### Languages
@@ -55,9 +56,6 @@ Reach out to me at...
 <br/>
 <br/>
 
-<a href="https://github.com/Sk-singla">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk-singla&theme=light&hide_langs_below=1" />
-</a>
 
 - 🌱 I’m currently learning Something New
 - 👯 I’m looking to collaborate on Android Project
