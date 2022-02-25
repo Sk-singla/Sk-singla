@@ -12,16 +12,16 @@ Ask me anything about...
 
 Reach out to me at...
 
-<a href="https://www.linkedin.com/in/samarth-gupta-049120193">
-  <img align="left" alt="Samarth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><a href="https://instagram.com/sk_singla02">
-  <img align="left" alt="Samarth's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.linkedin.com/in/samarth-g/">
+  <img align="left" alt="Samarth's Linkdein" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+</a><a href="https://twitter.com/Samarth00709410?t=1CarElUvvZBWshL2UscWxg&s=09">
+  <img align="left" alt="Samarth's Instagram" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />
 </a>
 <br/>
 <br/>
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sk-singla&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-
+<br/>
 #### Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
