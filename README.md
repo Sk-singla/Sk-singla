@@ -21,10 +21,8 @@ Reach out to me at...
 <br/>
 <br/>
 <p align="center">
-<img width="300px" src="https://github-readme-stats.vercel.app/api?username=Sk-singla&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=Sk-singla&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 </p>
-<br/>
-<br/>
 
 <a href="https://github.com/Sk-singla">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk-singla&theme=light&hide_langs_below=1" />
