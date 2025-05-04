@@ -1,5 +1,3 @@
-<img align="right" alt="Coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" style="z-index:10;" />
-
 # Hey, I'm [Samarth Gupta](https://github.com/Sk-singla) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=Sk-singla&label=Views&color=blue&style=plastic" alt="Sk-singla" /> </a>
 
 ## Software Development Engineer at [Optmyzr](https://optmyzr.com)
